@@ -1,0 +1,5 @@
+petDog = "Buddy";
+var dogSound = "woof";
+
+console.log(petDog, " says ", dogSound);
+console.log(petDog + " says " + dogSound);
